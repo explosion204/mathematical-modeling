@@ -1,0 +1,130 @@
+______________________________________________
+PARAMS: n=2, m=3, lambda=2, mu=3, nu=1
+EMPIRICAL STATS
+Queries processed: 975
+Quries dropped: 25
+0 terminals are busy & 0 queries in queue | p0 = 0.5258168599116952
+1 terminals are busy & 0 queries in queue | p1 = 0.3332424194413514
+2 terminals are busy & 0 queries in queue | p2 = 0.10260787001026793
+2 terminals are busy & 1 queries in queue | pn+1 = 0.027436945777841126
+2 terminals are busy & 2 queries in queue | pn+2 = 0.007247772685518621
+2 terminals are busy & 3 queries in queue | pn+3 = 0.0036481321733257905
+Probability of denial:  0.0036481321733257905
+Relative throughput:  0.9963518678266742
+Absolute throрugput 1.9927037356533484
+Average queue length:  0.052876887668855746
+Average processing queries:  0.5384581594618872
+Average queries in system:  0.591335047130743
+Average processing time:  0.31501336635564947
+Average waiting time:  0.02149342662664261
+Average time in system:  0.3365067929822921
+
+THEORETICAL STATS
+0 terminals are busy & 0 queries in queue | p0 = 0.507155635062612
+1 terminals are busy & 0 queries in queue | p1 = 0.338103756708408
+2 terminals are busy & 0 queries in queue | p2 = 0.112701252236136
+2 terminals are busy & 1 queries in queue | pn+1 = 0.0322003577817531
+2 terminals are busy & 2 queries in queue | pn+2 = 0.00805008944543828
+2 terminals are busy & 3 queries in queue | pn+3 = 0.00178890876565295
+Probability of denial:  0.00178890876565295
+Relative throughput:  0.998211091234347
+Absolute throрugput 1.99642218246869
+Average queue length:  0.0536672629695885
+Average processing queries:  0.56350626118068
+Average queries in system:  0.617173524150268
+Average processing time:  0.332737030411449
+Average waiting time:  0.0268336314847943
+Average time in system:  0.359570661896243
+MODEL IS CORRECT
+______________________________________________
+______________________________________________
+PARAMS: n=3, m=4, lambda=3, mu=3, nu=2
+EMPIRICAL STATS
+Queries processed: 988
+Quries dropped: 12
+0 terminals are busy & 0 queries in queue | p0 = 0.3805538909548847
+1 terminals are busy & 0 queries in queue | p1 = 0.3696215513930658
+2 terminals are busy & 0 queries in queue | p2 = 0.17474128342142603
+3 terminals are busy & 0 queries in queue | p3 = 0.055531913519702034
+3 terminals are busy & 1 queries in queue | pn+1 = 0.01556558351108723
+3 terminals are busy & 2 queries in queue | pn+2 = 0.003394243174702673
+3 terminals are busy & 3 queries in queue | pn+3 = 0.0005915340251315453
+3 terminals are busy & 4 queries in queue | pn+4 = 0.0
+Probability of denial:  0.0
+Relative throughput:  1.0
+Absolute throрugput 3.0
+Average queue length:  0.024128671935887212
+Average processing queries:  0.885699858795024
+Average queries in system:  0.9098285307309112
+Average processing time:  0.3264810097821953
+Average waiting time:  0.006824574099301862
+Average time in system:  0.33330558388149717
+
+THEORETICAL STATS
+0 terminals are busy & 0 queries in queue | p0 = 0.366961859716212
+1 terminals are busy & 0 queries in queue | p1 = 0.366961859716212
+2 terminals are busy & 0 queries in queue | p2 = 0.183480929858106
+3 terminals are busy & 0 queries in queue | p3 = 0.061160309952702
+3 terminals are busy & 1 queries in queue | pn+1 = 0.0166800845325551
+3 terminals are busy & 2 queries in queue | pn+2 = 0.00384925027674348
+3 terminals are busy & 3 queries in queue | pn+3 = 0.000769850055348697
+3 terminals are busy & 4 queries in queue | pn+4 = 0.000135855892120358
+Probability of denial:  0.000135855892120358
+Relative throughput:  0.99986414410788
+Absolute throрugput 2.99959243232364
+Average queue length:  0.0272315588205696
+Average processing queries:  0.91740464929053
+Average queries in system:  0.9446362081111
+Average processing time:  0.33328804803596
+Average waiting time:  0.0090771862735232
+Average time in system:  0.342365234309483
+MODEL IS CORRECT
+______________________________________________
+______________________________________________
+PARAMS: n=5, m=5, lambda=1, mu=1, nu=1
+EMPIRICAL STATS
+Queries processed: 1000
+Quries dropped: 0
+0 terminals are busy & 0 queries in queue | p0 = 0.369493870436627
+1 terminals are busy & 0 queries in queue | p1 = 0.36577802471593523
+2 terminals are busy & 0 queries in queue | p2 = 0.1850127813591566
+3 terminals are busy & 0 queries in queue | p3 = 0.06266122513749915
+4 terminals are busy & 0 queries in queue | p4 = 0.013935675199188799
+5 terminals are busy & 0 queries in queue | p5 = 0.0028060425858212413
+5 terminals are busy & 1 queries in queue | pn+1 = 0.0003123805657719766
+5 terminals are busy & 2 queries in queue | pn+2 = 0.0
+5 terminals are busy & 3 queries in queue | pn+3 = 0.0
+5 terminals are busy & 4 queries in queue | pn+4 = 0.0
+5 terminals are busy & 5 queries in queue | pn+5 = 0.0
+Probability of denial:  0.0
+Relative throughput:  1.0
+Absolute throрugput 1.0
+Average queue length:  0.0003123805657719766
+Average processing queries:  0.9935601765726073
+Average queries in system:  0.9938725571383793
+Average processing time:  1.0116372665220794
+Average waiting time:  0.00031756487793161624
+Average time in system:  1.011954831400011
+
+THEORETICAL STATS
+0 terminals are busy & 0 queries in queue | p0 = 0.367879444867809
+1 terminals are busy & 0 queries in queue | p1 = 0.367879444867809
+2 terminals are busy & 0 queries in queue | p2 = 0.183939722433905
+3 terminals are busy & 0 queries in queue | p3 = 0.0613132408113015
+4 terminals are busy & 0 queries in queue | p4 = 0.0153283102028254
+5 terminals are busy & 0 queries in queue | p5 = 0.00306566204056508
+5 terminals are busy & 1 queries in queue | pn+1 = 0.000510943673427513
+5 terminals are busy & 2 queries in queue | pn+2 = 7.29919533467875e-5
+5 terminals are busy & 3 queries in queue | pn+3 = 9.12399416834844e-6
+5 terminals are busy & 4 queries in queue | pn+4 = 1.01377712981649e-6
+5 terminals are busy & 5 queries in queue | pn+5 = 1.01377712981649e-7
+Probability of denial:  1.01377712981649e-7
+Relative throughput:  0.999999898622287
+Absolute throрugput 0.999999898622287
+Average queue length:  0.000688861559710307
+Average processing queries:  0.99634016318365
+Average queries in system:  0.99702902474336
+Average processing time:  0.999999898622287
+Average waiting time:  0.000688861559710307
+Average time in system:  1.000688760182
+MODEL IS CORRECT
